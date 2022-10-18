@@ -31,11 +31,9 @@ a:hover, a:focus, a:active {
 	color: black;
 	font-weight: bold;
 }
-
 hr {
 	margin: 0 auto;
 }
-
 .description {
 	margin-top: 1.8rem;
 	margin-bottom: 2rem;
